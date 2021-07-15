@@ -1,4 +1,3 @@
-//% color=#008060 weight=100 icon="\uf017" block="obTimer"
 namespace obExceptions {
     let dt: number = 1000
     let res: number = 200
